@@ -14,7 +14,7 @@
     <img src="gmail.svg" alt="gmail">
   </a>
 
-  <a href="https://www.instagram.com/gustavodiersmann/">
+  <a href="https://www.instagram.com/gustavodiersmann_/">
     <img src="instagram.svg" alt="instagram">
   </a>
 </div>
