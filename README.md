@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Gustavo Diersmann!👋</h1>
 
-<!--
-**gusdier/gusdier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Graduate Mechatronics Technician at IFSul Charqueadas in 2020.</p> 
+# <p align="center">Currently I'm a student of Energy Engineering at UERGS.</p>
 
-Here are some ideas to get you started:
+<h1 align="center"></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavo-diersmann/">
+    <img src="src/images/linkedin.svg" alt="linkedin">
+  </a>
+  
+  <a href="mailto:gustavodier21@gmail.com">
+    <img src="src/images/gmail.svg" alt="gmail">
+  </a>
+
+  <a href="https://www.instagram.com/gustavodiersmann/">
+    <img src="src/images/instagram.svg" alt="instagram">
+  </a>
+</div>
