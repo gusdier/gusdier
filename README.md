@@ -7,14 +7,14 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-diersmann/">
-    <img src="src/images/linkedin.svg" alt="linkedin">
+    <img src="linkedin.svg" alt="linkedin">
   </a>
   
   <a href="mailto:gustavodier21@gmail.com">
-    <img src="src/images/gmail.svg" alt="gmail">
+    <img src="gmail.svg" alt="gmail">
   </a>
 
   <a href="https://www.instagram.com/gustavodiersmann/">
-    <img src="src/images/instagram.svg" alt="instagram">
+    <img src="instagram.svg" alt="instagram">
   </a>
 </div>
